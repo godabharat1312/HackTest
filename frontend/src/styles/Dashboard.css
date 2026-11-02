@@ -1,0 +1,26 @@
+.submission-history {
+    margin-top: 25px;
+    width: 100%;
+    max-width: 800px;
+}
+
+.submission-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    text-align: left;
+}
+
+.submission-table th,
+.submission-table td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+.submission-table th {
+    background-color: #f2f2f2;
+}
+
+.submission-table tbody tr:hover {
+    background-color: #f8f8f8;
+}
